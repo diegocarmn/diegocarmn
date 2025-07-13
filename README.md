@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Diego Carmona</h1>
 <p align="center">
-  💻 Web-focused developer • 🎓 CS Student • 🚀 Building stuff with React
+  💻 Web developer • 🎓 CS Student • 🚀 Building stuff with React and Next.js
 </p>
 
 <p align="center">
@@ -9,16 +9,16 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About me
 
-- 🎓 Estudante de Ciência da Computação e Análise e Desenvolvimento de Sistemas  
-- 🌐 Apaixonado por desenvolvimento web (React, Vite, MUI, Bootstrap e mais)  
-- 🎮 Gamer nas horas vagas
+- 🎓 CS Student at UFRGS  
+- 🌐 Passionate about web development (React, Next, Tailwind, JavaScript, and more)  
+- 🎮 Gamer
 - 📍 Brasil
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tech stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
@@ -36,14 +36,6 @@
 
 ---
 
-## 🧾 Projetos em destaque
-
-🔹 [**Travel Journal**](https://diegocarmn.github.io/travel-journal/)  
-Um app simples e responsivo para registrar suas viagens, feito com React + Vite + MUI.  
-🎨 [Layout no Figma](https://www.figma.com/design/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0-1)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -52,14 +44,14 @@ Um app simples e responsivo para registrar suas viagens, feito com React + Vite 
 
 ---
 
-## ☕ Vamos conversar
+## ☕ Let's talk!
 
-Se quiser trocar uma ideia sobre projetos, tecnologia ou games:
+If you want to chat about projects, tech, or games, feel free to reach out!
 
-📬 Me chama no [LinkedIn](https://www.linkedin.com/in/diego-carmona-429b75b5/)
+📬  [LinkedIn](https://www.linkedin.com/in/diego-carmona-429b75b5/)
 
 ---
 
 <p align="center">
-  💙 Obrigado por visitar meu perfil!
+  💙 Thanks for stopping by!
 </p>
