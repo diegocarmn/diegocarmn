@@ -48,7 +48,7 @@
 
 If you want to chat about projects, tech, or games, feel free to reach out!
 
-📬  [LinkedIn](https://www.linkedin.com/in/diego-carmona-429b75b5/)
+📬  [LinkedIn](https://www.linkedin.com/in/diegocarmn)
 
 ---
 
