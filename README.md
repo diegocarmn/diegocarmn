@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-carmona-429b75b5"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/diegocarmn"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
