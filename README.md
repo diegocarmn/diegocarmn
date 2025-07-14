@@ -13,8 +13,8 @@
 
 - 🎓 CS Student at UFRGS  
 - 🌐 Passionate about web development (React, Next, Tailwind, JavaScript, and more)  
-- 🎮 Gamer
-- 📍 Brasil
+- 🎮 Gamer  
+- 📍 Based in Brazil  
 
 ---
 
@@ -33,6 +33,25 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 
+---
+
+## 🌟 Featured Projects
+
+### 🍽️ [SaborIA](https://github.com/diegocarmona/saborIA)
+
+> Discover creative recipes based on the ingredients you already have at home, powered by AI.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js&style=flat" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&style=flat" alt="React">
+  <img src="https://img.shields.io/badge/TailwindCSS-4.1-38bdf8?logo=tailwind-css&style=flat" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Groq-API-red?style=flat" alt="Groq API">
+</p>
+
+- 🧠 Built with **Next.js 15**, **React Server Actions**, and **Tailwind CSS**
+- 🌐 AI-powered recipe generation using the **Groq API (Mistral + LLaMA3)**
+- 📱 Fully responsive, clean and modern UI
+- 🔗 [Live demo](https://saboria.netlify.app)
 
 ---
 
