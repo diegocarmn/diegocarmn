@@ -37,7 +37,7 @@
 
 ## 🌟 Featured Projects
 
-### 🍽️ [SaborIA](https://github.com/diegocarmona/saborIA)
+### 🍽️ [SaborIA](https://github.com/diegocarmn/saborIA)
 
 > Discover creative recipes based on the ingredients you already have at home, powered by AI.
 
