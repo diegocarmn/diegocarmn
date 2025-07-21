@@ -1,7 +1,6 @@
 ## 🌈 Diego Carmona
 
- Web developer •  CS Student •  Building stuff with React and Next.js
-
+Full-Stack Developer •  CS Student •  Building stuff with React and Next.js
 
 ## 🛠️ Tech stack
 
