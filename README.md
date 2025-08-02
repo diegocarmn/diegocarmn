@@ -33,16 +33,9 @@ Full-Stack Developer •  CS Student •  Building stuff with React and Next.js
 🔗 [Live demo](https://saboria.netlify.app)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
-
-
 
 ## ☕ Let's talk!
-
-If you want to chat about projects, tech, or games, feel free to reach out!
 
 <p>
   <a href="https://www.linkedin.com/in/diegocarmn"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
 </p>
-
-Thanks for stopping by! 💙 
