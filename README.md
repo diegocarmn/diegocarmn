@@ -14,21 +14,29 @@ Full-Stack Developer • Building stuff with Next.js and React
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-### 🎬 [CineAI](https://github.com/diegocarmn/cineai)
+### 🎬 [CineAI](https://github.com/diegocarmn/cineai) &nbsp;|&nbsp; 🔗 [Live Demo](https://aicine.vercel.app)
 
-> AI-powered movie discovery platform with personalized recommendations. Search and save your favorites, create a watchlist, and get mood-based suggestions.
+> **AI-powered movie discovery platform** with personalized recommendations based on your taste and mood.  
+> Built with **Next.js, React, TypeScript, Prisma, Tailwind CSS** and **Groq API**.
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-15.4.5-black?logo=next.js&style=flat" alt="Next.js">
   <img src="https://img.shields.io/badge/React-19.1-61DAFB?logo=react&style=flat" alt="React">
   <img src="https://img.shields.io/badge/TailwindCSS-4.0-38bdf8?logo=tailwind-css&style=flat" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/Prisma-6.13-2D3748?logo=prisma&style=flat" alt="Prisma">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Groq-API-red?style=flat" alt="Groq API">
 </p>
 
-🔗 [Live demo](https://aicine.vercel.app)
+**✨ Key Features:**
+- 🤖 **AI-Powered Recommendations** — Suggestions based on your favorites and selected mood (Happy, Thoughtful, Scared, etc.).
+- 🎯 **Smart Watchlist & Favorites** — Save and organize your movies, accessible across devices.
+- 📈 **Trending Movies** — Discover what's popular right now.
+- 🔐 **Google OAuth + Prisma/PostgreSQL** — Secure authentication and persistent data.
+- 📱 **Responsive & Modern UI** — Optimized for desktop and mobile with smooth UX and loading states.
+
 
 ---
 
