@@ -31,7 +31,7 @@ Full-Stack Developer • Building stuff with Next.js and React
   <img src="https://img.shields.io/badge/React-19.1-61DAFB?logo=react&style=flat" alt="React">
   <img src="https://img.shields.io/badge/TailwindCSS-4.0-38bdf8?logo=tailwind-css&style=flat" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/Prisma-6.13-2D3748?logo=prisma&style=flat" alt="Prisma">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Groq-API-red?style=flat" alt="Groq API">
 </p>
 
