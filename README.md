@@ -35,14 +35,6 @@ Full-Stack Developer • Building stuff with Next.js and React
   <img src="https://img.shields.io/badge/Groq-API-red?style=flat" alt="Groq API">
 </p>
 
-**✨ Key Features:**
-- 🤖 **AI-Powered Recommendations** — Suggestions based on your favorites and selected mood (Happy, Thoughtful, Scared, etc.).
-- 🎯 **Smart Watchlist & Favorites** — Save and organize your movies, accessible across devices.
-- 📈 **Trending Movies** — Discover what's popular right now.
-- 🔐 **Google OAuth + Prisma/PostgreSQL** — Secure authentication and persistent data.
-- 📱 **Responsive & Modern UI** — Optimized for desktop and mobile with smooth UX and loading states.
-
-
 ---
 
 ## ☕ Let's talk!
